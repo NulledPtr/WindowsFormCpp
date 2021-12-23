@@ -1,3 +1,3 @@
-<h1>Making a C++ Windows Form Application in Visual Studio with CLR (.NET Framework)</h1>
+<h1>Making a C++/CLR Windows Form Application in Visual Studio</h1>
 
-CLR can be found by confuguring the Visual Studio Installer.
+CLR can be found by configuring the Visual Studio Installer.
