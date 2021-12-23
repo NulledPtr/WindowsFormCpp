@@ -1,6 +1,5 @@
 <h1>Making a C++/CLR Windows Form Application in Visual Studio</h1>
 
-
 To install CLR, It can be found by configuring the Visual Studio Installer.
 #
 
